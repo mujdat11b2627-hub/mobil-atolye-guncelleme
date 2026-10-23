@@ -1,8 +1,8 @@
 {
-  "surum": "2026.10.23-041fb3",
-  "sira": 13,
-  "paket": "paket-13.json",
-  "paketSha256": "9c116257d995c1163644cf6f9a019e9f8ecf8d606a6804498a76da5fc77caa4c",
-  "olusturma": "2026-10-23T11:16:26.419Z",
-  "imza": "v3MHTTcVbaGtY+A4PwSwveija/ruAju11blp6h8Bzs02NxVQdPzaSK5Zgxeg0atx46PIfa4dVYiFhBYtsRMKCA=="
+  "surum": "2026.10.23-ca7692",
+  "sira": 14,
+  "paket": "paket-14.json",
+  "paketSha256": "f0c75176d0bf00cafc13c3b838266c0e7f1c60721f890c00049df16f7ea04c97",
+  "olusturma": "2026-10-23T11:48:04.300Z",
+  "imza": "H24+HWiNTWOPxqK7W7F5G6tU/NvKTqhn+QSk4w/OdeyXutRx81nyZH0r0/CFw8b+FCAjDmEh8eWS4CBEv/yaCA=="
 }
